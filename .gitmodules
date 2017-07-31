@@ -1,0 +1,6 @@
+[submodule "resin-wpe"]
+	path = resin-wpe
+	url = https://github.com/resin-io-playground/resin-wpe.git
+[submodule "image-viewer"]
+	path = image-viewer
+	url = https://github.com/phillipberndt/pqiv.git
